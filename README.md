@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ahmet</h1>
-<h3 align="center">Flutter Geliştiricisi || Dokuz Eylül Üniversitesi'nde Bilgisayar Teknolojisi 2. Sınıfım</h3>
+<h3 align="center">Flutter Geliştiricisi || Dokuz Eylül Üniversitesi'nde Bilgisayar Teknolojisi 2. Sınıfım </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topkir&label=Profile%20views&color=0e75b6&style=flat" alt= "topkir" /> </p>
 
